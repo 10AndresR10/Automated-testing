@@ -1,5 +1,6 @@
 Project about automation journey with BDD and Pytest
 Descriprion: This projects automates the checkout flow of a prject website using Behavior-Driven Development
+
 Features:
 - Automated end-to-end tests using Behave (Gherkin)
 - Functional unit tests using Pytest
